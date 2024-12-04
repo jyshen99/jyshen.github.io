@@ -76,4 +76,4 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Industry Experience
-- *2024.02 - present*, Full-time machine learning engineer at Pinteres
+- *2024.02 - present*, Full-time machine learning engineer at Pinterest

@@ -30,11 +30,15 @@ My research interest lies in data-centric machine learning and trustworthy machi
 # 📝 Publications 
 
 [TimeInf: Time Series Data Contribution via Influence Functions](https://arxiv.org/pdf/2407.15247)
+
 Preprint (In Submission)
+
 Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, Yongchan Kwon
 
 [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572) 
+
 NeurIPS 2024
+
 Yifan Sun$^\dag$,  **Jingyan Shen**$^\dag$, Yongchan Kwon
 
 ($^\dag$ equal contribution)
@@ -54,9 +58,12 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+🎖 Honors and Awards
+- *2024.06* Outstanding Graduate Student
+- *2023.12* Graduate Fellowship
+- *2021.06* Outstanding Undergraduate Student
+- *2019.12* Jinshi Undergraduate Scholarship
+- *2018.12* National Scholarship 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

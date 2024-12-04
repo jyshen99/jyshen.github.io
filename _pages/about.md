@@ -30,19 +30,20 @@ My research interest lies in data-centric machine learning and trustworthy machi
 # 📝 Publications 
 (<sup>†</sup>: equal contribution)
 
-TimeInf: Time Series Data Contribution via Influence Functions
+**TimeInf: Time Series Data Contribution via Influence Functions**
+
+Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon
 
 Preprint (In Submission)
 
 [Paper](https://arxiv.org/pdf/2407.15247) [Code](https://github.com/yzhang511/TimeInf)
 
-Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon
 
-2D-OOB: Attributing Data Contribution through Joint Valuation Framework
-
-<span style="color:blue;">NeurIPS</span> 2024
+**2D-OOB: Attributing Data Contribution through Joint Valuation Framework**
 
 Yifan Sun<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Yongchan Kwon
+
+<span style="color:blue;">NeurIPS</span> 2024
 
 [Paper](https://arxiv.org/abs/2408.03572) [Code](https://github.com/yifansun99/2D-OOB-Joint-Valuation)
 

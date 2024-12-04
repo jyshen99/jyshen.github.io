@@ -58,7 +58,7 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate Student
 - *2023.12* Graduate Fellowship
 - *2021.06* Outstanding Undergraduate Student
@@ -73,5 +73,5 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-💻 Industry Experience
+# 💻 Industry Experience
 - *2024.02 - present*, Full-time machine learning engineer at Pinterest.

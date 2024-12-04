@@ -28,20 +28,24 @@ My research interest lies in data-centric machine learning and trustworthy machi
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
 
 # 📝 Publications 
+(<sup>†</sup>: equal contribution)
 
-[TimeInf: Time Series Data Contribution via Influence Functions](https://arxiv.org/pdf/2407.15247)
+TimeInf: Time Series Data Contribution via Influence Functions
 
 Preprint (In Submission)
 
+[Paper](https://arxiv.org/pdf/2407.15247) [Code](https://github.com/yzhang511/TimeInf)
+
 Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon
 
-[2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572) 
+2D-OOB: Attributing Data Contribution through Joint Valuation Framework
 
-NeurIPS 2024
+<span style="color:blue;">2D-OOB:</span> 2024
 
 Yifan Sun<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Yongchan Kwon
 
-($^\dag$ equal contribution)
+[Paper](https://arxiv.org/abs/2408.03572) [Code](https://github.com/yifansun99/2D-OOB-Joint-Valuation)
+
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -62,7 +66,6 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2024.06* Outstanding Graduate Student
 - *2023.12* Graduate Fellowship
 - *2021.06* Outstanding Undergraduate Student
-- *2019.12* Jinshi Undergraduate Scholarship
 - *2018.12* National Scholarship 
 
 <!-- # 📖 Educations

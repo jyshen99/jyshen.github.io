@@ -33,13 +33,13 @@ My research interest lies in data-centric machine learning and trustworthy machi
 
 Preprint (In Submission)
 
-Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, Yongchan Kwon
+Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon
 
 [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572) 
 
 NeurIPS 2024
 
-Yifan Sun$^\dag$,  **Jingyan Shen**$^\dag$, Yongchan Kwon
+Yifan Sun<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Yongchan Kwon
 
 ($^\dag$ equal contribution)
 

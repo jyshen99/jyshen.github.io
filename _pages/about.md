@@ -40,7 +40,7 @@ Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†
 
 2D-OOB: Attributing Data Contribution through Joint Valuation Framework
 
-<span style="color:blue;">2D-OOB:</span> 2024
+<span style="color:blue;">NeurIPS</span> 2024
 
 Yifan Sun<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Yongchan Kwon
 

@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jingyan Shen"
 description              : ""
-repository               : "JYS-99/jyshen.github.io"
+repository               : "jy-evangeline/jy-evangeline.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingyan Shen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Dual Master in Tsinghua University and Columbia University"
-  location         : "Beijing, China"
+  bio              : "Real change, enduring change, happens one step at a time."
+  location         : "California, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YBNEBucAAAAJ"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JYS-99"
+  github           : "jy-evangeline"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "www.linkedin.com/in/jyshen" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

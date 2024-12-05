@@ -58,10 +58,10 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduate Student
-- *2023.12* Graduate Fellowship
-- *2021.06* Outstanding Undergraduate Student
-- *2018.12* National Scholarship 
+- Outstanding Graduate Student
+- Graduate Fellowship
+- Outstanding Undergraduate Student
+- National Scholarship 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
